@@ -1,0 +1,14 @@
+C:\Users\Qarib\Desktop\c#\HomeTask07.04\bin\Debug\net6.0\HomeTask07.04.exe
+C:\Users\Qarib\Desktop\c#\HomeTask07.04\bin\Debug\net6.0\HomeTask07.04.deps.json
+C:\Users\Qarib\Desktop\c#\HomeTask07.04\bin\Debug\net6.0\HomeTask07.04.runtimeconfig.json
+C:\Users\Qarib\Desktop\c#\HomeTask07.04\bin\Debug\net6.0\HomeTask07.04.dll
+C:\Users\Qarib\Desktop\c#\HomeTask07.04\bin\Debug\net6.0\HomeTask07.04.pdb
+C:\Users\Qarib\Desktop\c#\HomeTask07.04\obj\Debug\net6.0\HomeTask07.04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Qarib\Desktop\c#\HomeTask07.04\obj\Debug\net6.0\HomeTask07.04.AssemblyInfoInputs.cache
+C:\Users\Qarib\Desktop\c#\HomeTask07.04\obj\Debug\net6.0\HomeTask07.04.AssemblyInfo.cs
+C:\Users\Qarib\Desktop\c#\HomeTask07.04\obj\Debug\net6.0\HomeTask07.04.csproj.CoreCompileInputs.cache
+C:\Users\Qarib\Desktop\c#\HomeTask07.04\obj\Debug\net6.0\HomeTask07.04.dll
+C:\Users\Qarib\Desktop\c#\HomeTask07.04\obj\Debug\net6.0\refint\HomeTask07.04.dll
+C:\Users\Qarib\Desktop\c#\HomeTask07.04\obj\Debug\net6.0\HomeTask07.04.pdb
+C:\Users\Qarib\Desktop\c#\HomeTask07.04\obj\Debug\net6.0\HomeTask07.04.genruntimeconfig.cache
+C:\Users\Qarib\Desktop\c#\HomeTask07.04\obj\Debug\net6.0\ref\HomeTask07.04.dll
